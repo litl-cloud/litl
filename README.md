@@ -1,0 +1,3 @@
+# lite.sh
+
+Hello world!

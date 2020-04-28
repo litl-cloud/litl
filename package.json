@@ -1,0 +1,44 @@
+{
+  "name": "lite.sh",
+  "version": "0.0.1",
+  "description": "CDN for frontend apps",
+  "main": "./lib/index.js",
+  "bin": {
+    "lite": "./bin/lite"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lite",
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhusudhand/lite.sh.git"
+  },
+  "homepage": "https://github.com/madhusudhand/lite.sh#readme",
+  "author": "Madhusudhana Dollu <madhusudhan.dollu@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "cli-table3": "^0.6.0",
+    "commander": "^5.0.0",
+    "export-files": "^2.1.1",
+    "ignore": "^5.1.4",
+    "is-domain": "^0.0.1",
+    "loglevel": "^1.6.7",
+    "mime": "^2.4.4",
+    "moniker": "^0.1.2",
+    "mustache": "^4.0.1",
+    "netrc": "^0.1.4",
+    "node-fetch": "^2.6.0",
+    "progress": "^2.0.3",
+    "read": "^1.0.7",
+    "recursive-readdir": "^2.2.2",
+    "request": "^2.88.2",
+    "semaphore": "^1.1.0",
+    "url-parse-as-address": "^1.0.0"
+  }
+}
