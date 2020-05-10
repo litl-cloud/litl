@@ -1,23 +1,23 @@
 {
-  "name": "lite.sh",
-  "version": "0.0.2",
-  "description": "CDN for frontend apps",
+  "name": "litl",
+  "version": "0.0.1",
+  "description": "one step deployment for front-end apps",
   "main": "./lib/index.js",
   "bin": {
-    "lite": "./bin/lite"
+    "litl": "./bin/litl"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "lite",
+    "litl",
     "cli"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madhusudhand/lite.sh.git"
+    "url": "git+https://github.com/litl-cloud/litl.git"
   },
-  "homepage": "https://lite.sh",
+  "homepage": "https://litl.cloud",
   "author": "Madhusudhana Dollu <madhusudhan.dollu@gmail.com>",
   "license": "MIT",
   "private": false,

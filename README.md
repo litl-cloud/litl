@@ -1,28 +1,28 @@
-# lite.sh
+# litl
 
 > Fast and secure sites delivered with one step deployment.
 
-lite.sh is a hosting service for frontend apps.
+litl is a hosting service for front-end apps.
 
 ## one step deployment
 
 ```sh
-$ npm install -g lite.sh
+$ npm install -g litl
 
-$ lite . --domain example.com
+$ litl
 ```
 
 ## usage
 
-Run `lite --help` or visit [lite.sh/docs](https://lite.sh/docs)
+Run `litl --help` or visit [litl.cloud/docs](https://litl.cloud/docs)
 
 ```
-Usage: lite <path> [options]
+Usage: litl <path> [options]
 
   Commandline to publish frontend apps.
 
-  ex: lite .
-      lite /absolute/path
+  ex: litl .
+      litl /absolute/path
 
 Options:
   -V, --version        output the version number
