@@ -33,7 +33,7 @@
     "moniker": "^0.1.2",
     "mustache": "^4.0.1",
     "netrc": "^0.1.4",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "progress": "^2.0.3",
     "read": "^1.0.7",
     "recursive-readdir": "^2.2.2",
